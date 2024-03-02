@@ -1,0 +1,16 @@
+jupyterlab
+notebook
+pandas
+matplotlib
+scikit-learn
+seaborn
+# numpy
+# lightgbm
+# scipy
+# statsmodels
+#optuna
+#catboost
+#umap
+#torch
+#annoy
+#nmslib
